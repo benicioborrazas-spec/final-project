@@ -8,5 +8,29 @@ margin-right: auto;
 
 
 img:hover{
-	opacity: 0.60;
+	opacity: 0.75;
+}
+.greenParagraph{color: #3250a8}
+table, td{
+border-style: dashed;}
+
+img{
+	border-radius: 25px;}
+
+ul{
+	list-style-type: none;
+	background-color: #3489eb;
+	overflow: hidden;
+}
+li a{
+	float: left;
+	display: block;
+	width: 100px;
+	background-color: #3477eb;
+	text-align: center;
+	padding: 15px 15px;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: #3489eb;
 }
